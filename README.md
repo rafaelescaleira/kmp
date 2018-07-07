@@ -1,6 +1,6 @@
 Algoritmo KMP
 =============
-Esse repositório possui funções implementadas em linguagem C.
+Esse repositório possui função KMP e função para construir tabela de prefixos implementadas em linguagem C.
 Segue a lista das funções :
 
 * Constroi Tabela de Prefixos;
