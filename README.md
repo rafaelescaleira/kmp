@@ -30,7 +30,7 @@ Para executar o arquivo já compilado com `` main.c `` :
 Desempenho do KMP
 ------------------
 
-* O algoritmo KMP é linear: faz apenas M comparações entre caracteres para construir a tabela de prefixoa e depois no máximo N comparações entre caracteres para procurar o padrão.
+* O algoritmo KMP é linear: faz apenas M comparações entre caracteres para construir a tabela de prefixo e depois no máximo N comparações entre caracteres para procurar o padrão.
 * Proposição N. O algoritmo KMP examina não mais que M + N caracteres.
 
 Execução do Programa (Teste)
