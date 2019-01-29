@@ -1,5 +1,9 @@
 Algoritmo KMP
 =============
+
+![Build](https://img.shields.io/gitlab/pipeline/rafaelescaleira/kmp.svg)
+![License](https://img.shields.io/github/license/rafaelescaleira/kmp.svg)
+
 Esse repositório possui função KMP e função para construir tabela de prefixos implementadas em linguagem C.
 Segue a lista das funções :
 
